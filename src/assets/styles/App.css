@@ -1,0 +1,22 @@
+.new-user-add{
+    justify-content: center;
+    display: flex;
+}
+
+.new-user-add .button_submit{
+    border: none;
+    border-radius: 50px;
+    background: #2cbb20;
+    cursor: pointer;
+    line-height: 30px;
+}
+
+.new-user-add .Input_field{
+    width: 60%;
+    border: none;
+    background: silver;
+    border-radius: 30px;
+    outline: none;
+    padding-left: 20px;
+
+}
